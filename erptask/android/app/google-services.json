@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873909974830",
+    "project_id": "erptask-de48e",
+    "storage_bucket": "erptask-de48e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873909974830:android:1a1c915a5286efe8f16cbf",
+        "android_client_info": {
+          "package_name": "com.example.erptask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGZGZQE3AHB4xwYDI7xADzF0PxdIKbq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
